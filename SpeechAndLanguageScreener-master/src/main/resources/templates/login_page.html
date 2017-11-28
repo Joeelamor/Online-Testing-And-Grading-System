@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Login Page</title>
+  <link rel="stylesheet" type="text/css" href="../static/styles.css" th:href="@{/styles.css}" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<div class="login-page">
+  <div class="form">
+    <form class="login-form" action="/users" method="post">
+      <input type="text" name="tester_name" placeholder="Tester" value=""/>
+      <input type="text" name="testee_name" placeholder="Testee" value=""/>
+      <button>Start</button>
+    </form>
+  </div>
+</div>
+</body>
+</html>
