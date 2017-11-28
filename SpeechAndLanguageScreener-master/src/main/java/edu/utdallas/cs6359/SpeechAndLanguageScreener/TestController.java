@@ -14,9 +14,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Iterator;
 import java.util.Map;
 
-/**
- * @author Kyle Bolton
- */
 @Controller
 public class TestController {
     @Autowired

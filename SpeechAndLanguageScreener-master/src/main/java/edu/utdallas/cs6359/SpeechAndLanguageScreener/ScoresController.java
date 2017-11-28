@@ -10,9 +10,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.ArrayList;
 
-/**
- * @author Kyle Bolton
- */
 @Controller
 public class ScoresController {
     @Autowired
