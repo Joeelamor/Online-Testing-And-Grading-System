@@ -1,4 +1,4 @@
-# Online-Testing-Grading-System
+# Online Testing And Grading System
 
 ## Purpose of Product 
 The product Automated Testing System is designed to automate and facilitate testing and grading for multiple users in speech-language pathology
